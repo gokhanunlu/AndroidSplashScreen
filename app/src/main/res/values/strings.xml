@@ -20,8 +20,9 @@
     <string name="AGREE">KABUL ET</string>
     <string name="OPEN">AÇ</string>
     <string name="SAVE">KAYDET</string>
-    <string name="NEXT">SONRAKİ</string>
+    <string name="NEXT">NEXT</string>
     <string name="BACK">GERİ</string>
     <string name="DONE">BİTTİ</string>
     <string name="SKIP">GEÇ</string>
+    <string name="END_TEXT">DONE</string>
 </resources>
