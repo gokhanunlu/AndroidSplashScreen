@@ -2,8 +2,10 @@
 
 
 
-![Demo of the application](https://github.com/gokhanunlu/AndroidSplashScreen/blob/master/app/src/main/res/drawable/gif.gif)
-<img src="https://github.com/username/repository/blob/main/assets/demo.gif" width="250">
+<p align="center">
+  <img src="https://github.com/gokhanunlu/AndroidSplashScreen/blob/master/app/src/main/res/drawable/gif.gif" width="300" height="600">
+</p>
+
 
 Bu proje, kullanıcıya uygulamanın başlangıcında bir dizi tanıtım ekranı gösteren bir Android uygulamasıdır.
 
