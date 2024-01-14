@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Splash Screen</string>
+    <string name="OK">TAMAM</string>
+    <string name="GOT_IT">ANLADIM</string>
+    <string name="YES">EVET</string>
+    <string name="NO">HAYIR</string>
+    <string name="SETTING">AYARLAR</string>
+    <string name="CANCEL">VAZGEÇ</string>
+    <string name="CLOSE">KAPAT</string>
+    <string name="UPDATE">GÜNCELLE</string>
+    <string name="DISMISS">DISMISS</string>
+    <string name="HIDE">GIZLE</string>
+    <string name="RETRY">YENİDEN DENE</string>
+    <string name="TRY_AGAIN">YENİDEN DENE</string>
+    <string name="DETAILS">DETAYLAR</string>
+    <string name="FAILED">BAŞARISIZ</string>
+    <string name="TYPE_SEARCH">ARAMA</string>
+    <string name="NO_IMAGE">RESİM YOK</string>
+    <string name="DELETE">SİL</string>
+    <string name="AGREE">KABUL ET</string>
+    <string name="OPEN">AÇ</string>
+    <string name="SAVE">KAYDET</string>
+    <string name="NEXT">SONRAKİ</string>
+    <string name="BACK">GERİ</string>
+    <string name="DONE">BİTTİ</string>
+    <string name="SKIP">GEÇ</string>
+</resources>
